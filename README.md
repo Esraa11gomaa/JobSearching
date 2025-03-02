@@ -15,5 +15,5 @@ Tech Stack
 - Backend: Express.js, Node.js
 - Database: MongoDB
 - Authentication: JWT, Google OAuth
-- Deployment: AWS 
+- Deployment: EvenNode 
 
